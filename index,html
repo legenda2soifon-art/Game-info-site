@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GamePulse - Gaming News</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <a href="#" class="logo">
+            GamePulse
+        </a>
+
+        <nav>
+            <a href="#">Home</a>
+            <a href="#news">News</a>
+            <a href="#about">About</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+
+        <div class="hero-content">
+
+            <span class="hero-category">
+                GAMING NEWS • SEPTEMBER 27, 2026
+            </span>
+
+            <h1>
+                Everything happening in gaming right now.
+            </h1>
+
+            <p>
+                The latest gaming news, releases, updates and
+                announcements from Xbox, PlayStation, Nintendo and PC.
+            </p>
+
+            <a href="#news" class="hero-button">
+                Explore News
+            </a>
+
+        </div>
+
+    </section>
+
+    <main class="container" id="news">
+
+        <div class="section-header">
+
+            <div>
+                <span>SEPTEMBER 2026</span>
+
+                <h2>
+                    Latest News
+                </h2>
+            </div>
+
+            <p class="updated">
+                Updated September 27, 2026
+            </p>
+
+        </div>
+
+        <div class="news-grid">
+
+            <article class="card">
+
+                <div class="card-image">
+                    <img
+                        src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912410/dbbe1c377ecf00ed7c841bcdfa72c44853080d43/page_bg_raw.jpg?t=1789572111"
+                        alt="Minecraft Dungeons II"
+                    >
+                </div>
+
+                <div class="card-content">
+
+                    <span class="category">
+                        XBOX
+                    </span>
+
+                    <h3>
+                        Minecraft Dungeons II Is Coming to Xbox
+                    </h3>
+
+                    <p>
+                        Minecraft Dungeons II is scheduled to arrive
+                        on September 28 as part of the upcoming Xbox
+                        releases.
+
+                      
+                    </p>
+
+                    <div class="card-footer">
+
+                        <span class="date">
+                            September 25, 2026
+                        </span>
+
+                        <a
+                            href="https://news.xbox.com/en-us/2026/09/25/next-week-on-xbox-new-games-for-september-28-to-october-2/"
+                            target="_blank"
+                            class="read-more"
+                        >
+                            Read More →
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+            <article class="card">
+
+                <div class="card-image">
+                    <img
+                        src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790223855"
+                        alt="Ace Combat 8"
+                    >
+                </div>
+
+                <div class="card-content">
+
+                    <span class="category">
+                        XBOX
+                    </span>
+
+                    <h3>
+                        Ace Combat 8 Early Access Begins Soon
+                    </h3>
+
+                    <p>
+                        Ace Combat 8: Wings of Theve is scheduled
+                        for October 2, with early access beginning
+                        September 28 for Deluxe Edition pre-orders.
+                    </p>
+
+                    <div class="card-footer">
+
+                        <span class="date">
+                            September 25, 2026
+                        </span>
+
+                        <a
+                            href="https://news.xbox.com/en-us/2026/09/25/next-week-on-xbox-new-games-for-september-28-to-october-2/"
+                            target="_blank"
+                            class="read-more"
+                        >
+                            Read More →
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+            <article class="card">
+
+                <div class="card-image">
+                    <img
+                        src="https://cdn1.epicgames.com/spt-assets/b8f94281d22b4f40a91d0f19a37d8a8e/fc-27-lxfqt.jpg"
+                        alt="EA SPORTS FC 27"
+                    >
+                </div>
+
+                <div class="card-content">
+
+                    <span class="category">
+                        NINTENDO
+                    </span>
+
+                    <h3>
+                        EA SPORTS FC 27 Arrives on Nintendo Switch
+                    </h3>
+
+                    <p>
+                        EA SPORTS FC 27 is now available on Nintendo
+                        Switch systems, featuring The Grounds and
+                        new ways to play football with friends.
+                    </p>
+
+                    <div class="card-footer">
+
+                        <span class="date">
+                            September 25, 2026
+                        </span>
+
+                        <a
+                            href="https://www.nintendo.com/us/whatsnew/"
+                            target="_blank"
+                            class="read-more"
+                        >
+                            Read More →
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+            <article class="card">
+
+                <div class="card-image">
+                    <img
+                        src="https://assets.2k.com/1a6ngf98576c/7gfY8NPeBoBaJsEFwQ3Ov0/ed8296b24097b45702372f77d3e4da21/NBA2k27_App-Config_Thumbnails_1200x630px.jpg"
+                        alt="NBA 2K27"
+                    >
+                </div>
+
+                <div class="card-content">
+
+                    <span class="category">
+                        NINTENDO
+                    </span>
+
+                    <h3>
+                        NBA 2K27 Gets a Nintendo Switch 2 Update
+                    </h3>
+
+                    <p>
+                        Nintendo highlighted NBA 2K27 on Switch 2,
+                        including boosted performance and exclusive
+                        motion-controlled mini-games.
+                    </p>
+
+                    <div class="card-footer">
+
+                        <span class="date">
+                            September 25, 2026
+                        </span>
+
+                        <a
+                            href="https://www.nintendo.com/us/whatsnew/"
+                            target="_blank"
+                            class="read-more"
+                        >
+                            Read More →
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+            <article class="card">
+
+                <div class="card-image">
+                    <img
+                        src="https://image.api.playstation.com/vulcan/ap/rnd/202211/0714/S1jCzktWD7XJSRkz4kNYNVM0.png"
+                        alt="The Witcher 3"
+                    >
+                </div>
+
+                <div class="card-content">
+
+                    <span class="category">
+                        PC / XBOX
+                    </span>
+
+                    <h3>
+                        The Witcher 3 Remastered Update Arrives Soon
+                    </h3>
+
+                    <p>
+                        A major free update for The Witcher 3 is
+                        scheduled to arrive on September 29, bringing
+                        the remastered version to players.
+                    </p>
+
+                    <div class="card-footer">
+
+                        <span class="date">
+                            September 26, 2026
+                        </span>
+
+                        <a
+                            href="https://www.purexbox.com/news/2026/09/cdpr-announces-release-times-and-update-sizes-for-the-witcher-3-remastered"
+                            target="_blank"
+                            class="read-more"
+                        >
+                            Read More →
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+            <article class="card">
+
+                <div class="card-image">
+                    <img
+                        src="https://live.cdn.gearsofwar.com/gearsofwar/sites/3/2026/07/GoW_EDAY_Versus_cropped-6a67ad75d42e8-1024x563.jpg"
+                        alt="Gears of War E-Day"
+                    >
+                </div>
+
+                <div class="card-content">
+
+                    <span class="category">
+                        XBOX
+                    </span>
+
+                    <h3>
+                        Gears of War: E-Day Teams Up With Liquid Death
+                    </h3>
+
+                    <p>
+                        Gears of War: E-Day has launched a limited
+                        collaboration featuring an in-game reward
+                        and special merchandise.
+                    </p>
+
+                    <div class="card-footer">
+
+                        <span class="date">
+                            September 25, 2026
+                        </span>
+
+                        <a
+                            href="https://news.xbox.com/en-us/2026/09/25/gears-of-war-e-day-liquid-death/"
+                            target="_blank"
+                            class="read-more"
+                        >
+                            Read More →
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+        </div>
+
+    </main>
+
+    <footer id="about">
+
+        <div class="footer-logo">
+            GamePulse
+        </div>
+
+        <p>
+            Gaming news, updates and stories by soifonlovver8 <3
+        </p>
+
+        <span>
+            © 2026 GamePulse. All rights not reserved bruh
+        </span>
+
+    </footer>
+
+</body>
+</html>
